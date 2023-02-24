@@ -11,15 +11,6 @@ I'm Lenni. I do frontend web dev as a hobby.
 - 🧬 The meaning of life is to make the code linter happy.
 - 🎞️ Fun fact: My day job is being a video editor
 
-## Fandom Admin+ Badges
-I received these badges for participating in Fandom's [Admin+](https://community.fandom.com/wiki/Admin_Plus) program for wiki admins:
-<div align="center">
-  <img alt="ultra" src="https://user-images.githubusercontent.com/91371655/216820773-ae243747-30d8-4a38-bb1c-5c2584670642.png" />  
-  <img alt="community-building" src="https://user-images.githubusercontent.com/91371655/216820770-f9bef2e2-ddd0-4199-939b-d5daac65f69a.png" />  
-  <img alt="technical-foundations" src="https://user-images.githubusercontent.com/91371655/216820772-d00a596b-8a8c-4cad-84b8-af2aa00bf3f8.png" />  
-  <img alt="content-development" src="https://user-images.githubusercontent.com/91371655/216820775-45957bbe-fefd-4edb-abfb-b8d2c2da0b86.png" />  
-</div>
-
 ## GitHub Stats
 <div>
   <img alt="Lenni's Github Stats" width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lenni009&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&role=owner,collaborator&date_format=%5BY%20%5DM%20j" />
