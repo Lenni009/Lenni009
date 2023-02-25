@@ -7,7 +7,7 @@ I'm Lenni. I do frontend web dev as a hobby.
 - 🌱 I’m currently using vanilla JS, but also want to learn some frameworks (VueJS, NextJS, Svelte...) and other languages like Typescript in the future.
 - 💬 Ask me about MediaWiki
 - 📫 How to reach me: Lenni#4423 on Discord
-- ⚡ Controversial opinions: OOP sucks, jQuery sucks, JS frameworks suck (each one in their own way), vanilla JS is the best way to write a web app.
+- ⚡ Controversial opinions: OOP sucks, jQuery sucks, NodeJS sucks (Deno is better, use Deno!) JS frameworks suck (each one in their own way), vanilla JS is the best way to write a web app.
 - 🧬 The meaning of life is to make the code linter happy.
 - 🎞️ Fun fact: My day job is being a video editor
 
