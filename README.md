@@ -3,13 +3,15 @@
 ## About me
 I'm Lenni. I do frontend web dev as a hobby.
 
-- 🔭 I’m currently working on a wiki page creator for the [No Man's Sky wiki](https://nomanssky.fandom.com/wiki/No_Man%27s_Sky_Wiki), and also helping with bug testing the [Assistant for NMS](https://github.com/AssistantNMS) app and websites.
-- 🌱 I’m currently using vanilla JS, but also want to learn some frameworks (VueJS, NextJS, Svelte...) and other languages like Typescript in the future.
+- 🔭 I'm currently working on a wiki page creator for the [No Man's Sky wiki](https://nomanssky.fandom.com/wiki/No_Man%27s_Sky_Wiki), and also helping with bug testing the [Assistant for NMS](https://github.com/AssistantNMS) app and websites.
+- 🌱 I'm currently using "vanilla" TypeScript, but also want to learn some frameworks (VueJS, NextJS, Svelte...) in the future.
 - 💬 Ask me about MediaWiki
 - 📫 How to reach me: Lenni#4423 on Discord
-- ⚡ Controversial opinions: OOP sucks, jQuery sucks, NodeJS sucks (Deno is better, use Deno!) JS frameworks suck (each one in their own way), vanilla JS is the best way to write a web app.
+- ⚡ Controversial opinions: OOP sucks, jQuery sucks, NodeJS sucks (Deno is better, use Deno!) JS frameworks suck (each one in their own way), vanilla JS is the best way to write a web app (TS also sucks, but it's the standard nowadays).
 - 🧬 The meaning of life is to make the code linter happy.
 - 🎞️ Fun fact: My day job is being a video editor
+
+You can find all my web apps on my [index page](https://lenni009.github.io/).
 
 ## GitHub Stats
 <div>
