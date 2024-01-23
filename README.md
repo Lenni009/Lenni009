@@ -11,7 +11,7 @@ I'm Lenni. I do frontend web dev as a hobby.
 - 🧬 The meaning of life is to make the code linter happy.
 - 🎞️ Fun fact: My day job is being a video editor
 
-You can find all my web apps on my [index page](https://lenni009.github.io/).
+Many of my projects are stored in GitHub organizations instead of my profile. You can find all my web apps on my [index page](https://lenni009.github.io/).
 
 ## GitHub Stats
 <div>
