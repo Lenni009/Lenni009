@@ -3,15 +3,14 @@
 ## About me
 I'm Lenni. I do frontend web dev as a hobby.
 
-- 🔭 I'm currently working on a wiki page creator for the [No Man's Sky wiki](https://nomanssky.fandom.com/wiki/No_Man%27s_Sky_Wiki), and also helping with bug testing the [Assistant for NMS](https://github.com/AssistantNMS) app and websites. I regularly come up with random side projects when I procrastinate on anything. These side projects are all the other websites I made.
-- 🌱 I'm currently using VueJS with TypeScript, but also want to learn some more frameworks (NextJS, Svelte...) in the future.
+- 🔭 I'm currently building a bunch of projects for problems that I either encounter regularly, or that I simply want to solve with code, even if they're not frequent problems. You learn best by building things, and there's a lot to learn!
+- 🌱 My framework of choice is VueJS with TypeScript, but I also want to learn some more frameworks (NextJS, Angular, Svelte...) in the future.
 - 💬 Ask me about MediaWiki
 - 📫 How to reach me: lenni009 on Discord
-- ⚡ Controversial opinions: OOP sucks, jQuery sucks, NodeJS sucks (Deno is better, use Deno!) JS frameworks suck (each one in their own way), vanilla JS is the best way to write a web app (TS also sucks, just because something is the industry standard doesn't mean it can't suck!).
 - 🧬 The meaning of life is to make the code linter happy.
-- 🎞️ Fun fact: My day job is being a video editor
+- 🎞️ Fun fact: My current job is being a video editor
 
-Many of my projects are stored in GitHub organizations instead of my profile. You can find all my web apps on my [index page](https://lenni009.github.io/).
+Many of my projects are stored in GitHub organizations instead of my profile. You can find most of my web apps on my [index page](https://lenni009.github.io/).
 
 ## GitHub Stats
 <div>
