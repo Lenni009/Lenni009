@@ -1,14 +1,14 @@
 # Hello there!
 
 ## About me
-I'm Lenni. I do frontend web dev as a hobby.
+I'm Lenni. I study media informatics and do frontend web dev as a hobby.
 
 - 🔭 I'm currently building a bunch of projects for problems that I either encounter regularly, or that I simply want to solve with code, even if they're not frequent problems. You learn best by building things, and there's a lot to learn!
-- 🌱 My framework of choice is VueJS with TypeScript, but I also want to learn some more frameworks (NextJS, Angular, Svelte...) in the future.
+- 🌱 My framework of choice is VueJS with TypeScript, but I also want to learn some more frameworks (NextJS, Svelte, Angular...) in the future.
 - 💬 Ask me about MediaWiki
 - 📫 How to reach me: lenni009 on Discord
 - 🧬 The meaning of life is to make the code linter happy.
-- 🎞️ Fun fact: My current job is being a video editor
+- 🎞️ Fun fact: I'm also a professional video editor and camera man.
 
 Many of my projects are stored in GitHub organizations instead of my profile. You can find most of my web apps on my [index page](https://lenni009.github.io/).
 
