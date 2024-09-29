@@ -8,7 +8,7 @@ I'm Lenni. I study media informatics and do frontend web dev as a hobby.
 - 💬 Ask me about MediaWiki
 - 📫 How to reach me: lenni009 on Discord
 - 🧬 The meaning of life is to make the code linter happy.
-- 🎞️ Fun fact: I'm also a professional video editor and camera man.
+- 🎞️ Fun fact: I'm also a professional video editor and camera operator.
 
 Many of my projects are stored in GitHub organizations instead of my profile. You can find most of my web apps on my [index page](https://lenni009.github.io/).
 
